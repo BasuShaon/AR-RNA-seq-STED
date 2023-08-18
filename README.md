@@ -15,6 +15,8 @@ R (>= 4.3.0)
 
 Bioconductor (3.17)
 
+# Paths
+
 RNA-seq data deposited at GEO under accession GSE206853
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206853

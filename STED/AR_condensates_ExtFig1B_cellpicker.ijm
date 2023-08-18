@@ -2,9 +2,8 @@
 
 //// This is the START////
 
-// RB_211124_cell_picking by Rene
+// Based on RB_211124_cell_picking by Rene Buschow (buschow@molgen.mpg.de), modified for STED FLIM by Shaon Basu
 
-// preamble Copryright is Ren� 
 // regular bugs be aware of that the desired folder and image names are not allowed to contain free position e.g. "a b" should be "a_b"
 // set intensity threshold for overall cell picking
 
@@ -160,7 +159,8 @@ saveAs("Results", ""+dir+"/ROIs/Results.csv");
 roiManager("Delete");
 roiManager("Delete");
 
-run("Close");
+
+run("Close");
 
 //// This is the END////
 

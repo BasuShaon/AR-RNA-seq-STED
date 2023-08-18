@@ -12,8 +12,6 @@ DOI:
 
 R (>= 4.3.0)
 
-Bioconductor (3.17)
-
 ## Datasets
 
 RNA-seq data deposited to Gene Expression Omnibus under accession GSE206853

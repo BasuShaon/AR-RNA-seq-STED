@@ -3,7 +3,6 @@
 Companion code (RNA-sequencing analysis and STED image macros) to assess the activity of novel small-molecules that target condensation capacity of the Androgen Receptor in prostate cancer cell lines. 
 
 "Rational Optimization of a Transcription Factor Activation Domain Inhibitor" 
-(Basu et al. 2023)
 
 Published:
 

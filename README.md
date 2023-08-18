@@ -15,7 +15,7 @@ R (>= 4.3.0)
 
 Bioconductor (3.17)
 
-## Paths
+## Datasets
 
 RNA-seq data deposited at GEO under accession GSE206853
 

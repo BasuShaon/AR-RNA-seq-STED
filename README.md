@@ -17,7 +17,7 @@ Bioconductor (3.17)
 
 ## Datasets
 
-RNA-seq data deposited at Gene Expression Omnibus under accession GSE206853
+RNA-seq data deposited at Gene Expression Omnibus (GEO accession: GSE206853)
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206853
 

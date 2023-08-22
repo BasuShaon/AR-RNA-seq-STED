@@ -12,6 +12,8 @@ DOI:
 
 R (>= 4.3.0)
 
+STAR aligner (2.7.5)
+
 ## Datasets
 
 RNA-seq data deposited to Gene Expression Omnibus under accession GSE206853

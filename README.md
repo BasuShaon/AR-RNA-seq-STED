@@ -22,4 +22,4 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE206853
 
 GSEA lists 	(Human MSigDB Collections: H)
 
-https://www.gsea-msigdb.org/gsea/msigdb/human/collections.jsp
+https://data.broadinstitute.org/gsea-msigdb/msigdb/release/7.4/

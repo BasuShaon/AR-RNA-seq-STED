@@ -12,6 +12,8 @@ DOI:
 
 R (>= 4.3.0)
 
+Bioconductor (3.17)
+
 STAR aligner (2.7.5a)
 
 ## Datasets

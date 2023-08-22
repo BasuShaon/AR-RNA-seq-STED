@@ -12,7 +12,7 @@ DOI:
 
 R (>= 4.3.0)
 
-STAR aligner (2.7.5)
+STAR aligner (2.7.5a)
 
 ## Datasets
 

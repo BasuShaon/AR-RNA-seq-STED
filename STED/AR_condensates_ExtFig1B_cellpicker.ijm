@@ -2,7 +2,7 @@
 
 //// This is the START////
 
-// Based on RB_211124_cell_picking by Rene Buschow (buschow@molgen.mpg.de), modified for STED FLIM by Shaon Basu
+// The cellpicker.ijm code was developed by Rene Buschow (buschow@molgen.mpg.de), and was modified for STED FLIM by Shaon Basu
 // regular bugs be aware of that the desired folder and image names are not allowed to contain free position e.g. "a b" should be "a_b"
 // set intensity threshold for overall cell picking
 

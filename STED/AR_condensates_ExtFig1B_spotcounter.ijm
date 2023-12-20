@@ -1,7 +1,7 @@
 
-// The spotcounter.ijm code was developed by Rene Buschow (buschow@molgen.mpg.de), and was modified for STED FLIM by Shaon Basu
 //// This is the Start////
 
+// The spotcounter.ijm code was developed by Rene Buschow (buschow@molgen.mpg.de), and was modified for STED FLIM by Shaon Basu
 // attention this part is meant to run directly after another one
 
 run("Set Measurements...", "area mean standard perimeter shape redirect=None decimal=3");

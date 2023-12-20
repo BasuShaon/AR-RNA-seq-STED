@@ -1,5 +1,5 @@
 
-// Based on RB_220319_spotcounter.ijm by Rene Buschow (buschow@molgen.mpg.de), modified for STED FLIM by Shaon Basu
+// The spotcounter.ijm code was developed by Rene Buschow (buschow@molgen.mpg.de), and was modified for STED FLIM by Shaon Basu
 //// This is the Start////
 
 // attention this part is meant to run directly after another one

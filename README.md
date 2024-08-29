@@ -1,6 +1,6 @@
 # AR companion code 
 
-Companion code (RNA-sequencing analysis and STED image macros) to assess the activity of novel small-molecules that target androgen receptor condensates in prostate cancer cell lines. 
+Companion code (RNA-sequencing analysis and STED image macros) to assess the activity of novel small-molecules that target condensates formed by the androgen receptor in prostate cancer cell lines. 
 
 Reproduces statistics published in "**Rational Optimization of a Transcription Factor Activation Domain Inhibitor**" by Basu et al. 
 
